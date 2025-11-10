@@ -1,0 +1,2 @@
+*.slx diff=simulink merge=simulink
+*.mdl diff=simulink merge=simulink
