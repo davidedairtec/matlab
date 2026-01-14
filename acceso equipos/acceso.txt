@@ -1,0 +1,3 @@
+http://spc.ksdatacloud.com/#/login
+usuario:OnEnergybyEDT.2025
+contraseña:Areyes2025
